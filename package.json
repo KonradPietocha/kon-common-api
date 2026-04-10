@@ -11,10 +11,10 @@
   "author": "Konrad Pietocha",
   "license": "ISC",
   "dependencies": {
-    "cors": "^2.8.5",
-    "express": "^4.17.1"
+    "cors": "^2.8.6",
+    "express": "^5.2.1"
   },
   "devDependencies": {
-    "nodemon": "^2.0.14"
+    "nodemon": "^3.1.14"
   }
 }
